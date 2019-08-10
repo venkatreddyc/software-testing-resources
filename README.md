@@ -21,7 +21,7 @@ Also we are supporting and looking for contribution for project:
 * [practical test automation by examples](https://github.com/atinfo/at.info-knowledge-base)
 
 # Notifications
-Press [like](https://github.com/atinfo/awesome-test-automation/stargazers) to support us and [watch](https://github.com/atinfo/awesome-test-automation/subscription) repository to receive updates.
+Press [like](https://github.com/venkatreddyc/Software-Testing-Resources/stargazers) to support us and [watch](https://github.com/venkatreddyc/Software-Testing-Resources/subscription) repository to receive updates.
 
 # [Contribution](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 
