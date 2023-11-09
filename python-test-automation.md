@@ -246,6 +246,7 @@ Also:
 * [allure pytest](https://github.com/allure-framework/allure-python) - Allure adapter for PyTest framework.
 * [HTMLTestRunner](http://tungwaiyip.info/software/HTMLTestRunner.html) - An extension to the Python standard library's unittest module. It generates easy to use HTML test reports.
 * [unittest-xml-reporting](https://github.com/xmlrunner/unittest-xml-reporting) - A unittest test runner that can save test results to XML files that can be consumed by a wide range of tools, such as build systems, IDEs and continuous integration servers.
+* [pytest-analyzer](https://pypi.org/project/pytest-analyzer/) - this plugin allows to analyze tests in pytest project, collect test metadata and reports them to the testomat.io TCM system.
 
 ## Documentation generation
 
