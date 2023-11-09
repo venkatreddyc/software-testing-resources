@@ -117,6 +117,7 @@ service](http://security.sensiolabs.org/) and the [Security Advisories Database]
 beautiful reports with extended possibilities like screenshot capturing. Allure
 provides plugins for [Codeception](https://github.com/allure-framework/allure-codeception)
 and [PHPUnit](https://github.com/allure-framework/allure-phpunit).
+* [testomatio-reporter](https://github.com/testomatio/reporter) reporting and analytics for PHP(Codeception and PHP Unit) tests from the Codecept team. Passed, failed, skipped test distribution. Automation coverage, flaky tests, slow tests, never run tests and many more.
 
 ## Documentation generation
 
