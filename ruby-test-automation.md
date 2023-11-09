@@ -137,6 +137,7 @@ Also:
 ## Reporting
 
 * [ReportPortal.io](http://ReportPortal.io) - [Ruby Cucumber + RSpec](https://github.com/reportportal?utf8=✓&q=agent-ruby&type=&language=) powerfull results management and analytics for test automation reports. Powered with Machine Learning. Real-time integration and reports, visualization of trends and statistics, custom dashboards and widgets, gives you real visibility into the state of test automation. Integral part of CI/CD with TA and Continuous Testing. Server-client application, can be used for any type of automated tests. Free and OpenSourced, [GitHub link](https://github.com/reportportal).
+* [testomatio-reporter](https://docs.testomat.io/reference/reporter/junit.html#ruby-minitest) Ruby Minitest real-time reporting and rich analytics. Passed, failed, skipped test distribution. Automation coverage, flaky tests, slow tests, never-run tests and many more. Execution on CI\CD. Jira, Linear integration. Linking requirements to test cases.
 
 ## Documentation generation
 
